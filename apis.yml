@@ -1,0 +1,32 @@
+aid: gyazo
+name: Gyazo
+description: "Save & Share screen captures instantly"
+url: https://gyazo.com/api/docs
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cloud Storage & File Sharing"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cloud Storage And File Sharing
+  - Public APIs
+apis:
+  - name: Gyazo
+    description: "Save & Share screen captures instantly"
+    humanURL: https://gyazo.com/api/docs
+    baseURL: https://gyazo.com/api/docs
+    tags:
+      - Cloud Storage And File Sharing
+    properties:
+      - type: Documentation
+        url: https://gyazo.com/api/docs
+common:
+  - type: Website
+    url: https://gyazo.com/api/docs
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
