@@ -1,4 +1,16 @@
 aid: gyazo
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/gyazo.png
 name: Gyazo
 description: "Save & Share screen captures instantly"
 url: https://gyazo.com/api/docs
