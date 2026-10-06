@@ -27,7 +27,7 @@ description: "Save & Share screen captures instantly"
 url: https://gyazo.com/api/docs
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Cloud Storage & File Sharing"
 x-tier: 3
@@ -46,6 +46,8 @@ apis:
       - type: Documentation
         url: https://gyazo.com/api/docs
 common:
+  - url: https://updates.gyazo.com/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/gyazo-domain-security.yml
   - type: Website
